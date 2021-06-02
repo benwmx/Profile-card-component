@@ -22,11 +22,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshots
 
-####Computer
+#### Computer
 
 ![](./ScreenShots/computer.png)
 
-####Mobile
+#### Mobile
 
 ![](./ScreenShots/mobile.png)
 
